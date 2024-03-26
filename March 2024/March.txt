@@ -43,3 +43,11 @@ About to submit tomorrow.
 <--START-->
 Still not able to finish the last problem :> dk if I can do it tomorrow since I'm doing something tomorrow (Getting BRGY. Clearance)
 <--END-->
+
+03/26/2024
+
+<--START-->
+Got my BRGY. Clearance earlier this morning and and I that there are tasks that can be made easier by programming an app for them.
+If I can make them an application where a user can basically just schedule their visit and list their names on the app,
+then there will no longer be a long queue in the front of the BRGY. Hall. 
+<--END-->
