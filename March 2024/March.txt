@@ -51,3 +51,9 @@ Got my BRGY. Clearance earlier this morning and and I that there are tasks that 
 If I can make them an application where a user can basically just schedule their visit and list their names on the app,
 then there will no longer be a long queue in the front of the BRGY. Hall. 
 <--END-->
+
+03/27/2024
+
+<--START-->
+Today I finally asked chatgpt for assistance for the python week 6 problemset, didn't help at all...
+<--END-->
