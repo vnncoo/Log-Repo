@@ -57,3 +57,10 @@ then there will no longer be a long queue in the front of the BRGY. Hall.
 <--START-->
 Today I finally asked chatgpt for assistance for the python week 6 problemset, didn't help at all...
 <--END-->
+
+03/28/2024
+
+<--START-->
+Today I finally did the problemset about python...
+<--END-->
+
