@@ -64,3 +64,9 @@ Today I finally asked chatgpt for assistance for the python week 6 problemset, d
 Today I finally did the problemset about python...
 <--END-->
 
+03/29/2024
+
+<--START-->
+I'm finishing something in google dev site, it's more of a game but I might gain a unique badge for finishing so...
+<--END-->
+
