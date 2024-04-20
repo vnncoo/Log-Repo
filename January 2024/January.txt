@@ -1,0 +1,42 @@
+1/1/2024 - 1/2/2024
+
+<--START-->
+Took my time off and enjoyed New Year since my PC is still broken. 
+Still sad since I broke my 3 months of consistent git commits,
+but is definitely planning to return with a stronger streak.
+<--END-->
+
+
+1/3/2024
+
+<--START-->
+Finished setting up the laptop I borrowed from my cousin. 
+and I also finished refreshing my brain with CS50x's lesson. 
+Hopefully could continue where I left off tomorrow.
+<--END-->
+
+1/4/2024
+
+<--START-->
+So today my cousin will take his laptop back,
+I own the ssd that's on the laptop at the moment since his hdd is kind of slow.
+I will be reverting the current win10 to 7 though since my HP Pavillion doesn't have a driver for win10
+<--END-->
+
+1/5/2024 - 1/6/2024
+
+<--START-->
+Resting currently, don't have anything to use
+but I'm working on repairing the laptop I used last year.
+<--END-->
+
+1/7/2024 - 1/31/2024
+
+<--START-->
+Genuinely struggling without a laptop, 
+I'm still watching a few videos every now and then but 
+I don't feel like coding using a phone.
+Not to mention the difficulty of using cs50's version of vscode... 
+it's tough. But I have a few plans brewing, hopefully it works out:>
+<--END-->
+
